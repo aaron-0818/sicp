@@ -1,0 +1,1 @@
+for the build-in if expression, the alternative part will not be excuted if the predicate is true, however, for the new-if, all the expression will be evaluated first, which will cause the infinite loop.
